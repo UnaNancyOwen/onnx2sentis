@@ -11,12 +11,12 @@ You can convert without install Unity Editor and Unity Sentis package on your PC
 onnx2sentis.exe ./model.onnx
 ```
 
-# Environment
+## Environment
 
 * Unity 2022.3 LTS (Dedicated Server)
 * Sentis 1.4.0-pre.3
 
-# License
+## License
 
 Copyright © 2024 Tsukasa SUGIURA  
 Distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php "MIT License | Open Source Initiative").  
