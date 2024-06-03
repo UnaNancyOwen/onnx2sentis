@@ -3,7 +3,8 @@
 ## About
 
 The onnx2sentis is convert tool to serialize from onnx (*.onnx) to sentis (*.sentis).  
-You can convert without install Unity Editor and Unity Sentis package on your PC.    
+You can convert without install Unity Editor and Unity Sentis package on your PC.  
+The converted file are continuously available with Unity Sentis 1.4.0 or later version unless specification changes.  
 
 ## How to Use
 
